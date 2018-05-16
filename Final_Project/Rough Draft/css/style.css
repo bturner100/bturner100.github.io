@@ -1,0 +1,163 @@
+* {
+  box-sizing: border-box; 
+}
+.container {
+  
+}
+.hundred{
+  background-color:#C0AB8E;
+  opacity: .7;
+  width: 50%;
+  float: left;
+}
+.clg{
+  background:powderblue;
+  opacity: .7;
+  width: 50%;
+  float: right;
+}
+.clutch{
+  background: #E94B3C; 
+  opacity: .7;
+  width:50%;
+  float: right;
+}
+.echofox{
+  background:#F6D155;
+  opacity: .7;
+  width:50%;
+  float:left;
+}
+.c9{
+  background:#95DEE3;
+  opacity: .7;
+  width:50%;
+}
+.flyquest{
+  background:#92B558;
+  opacity: .7;
+  width:50%;
+  float:right;
+}
+.golden{
+  background:#C48F65;
+  opacity: .7;
+  width:50%;
+  float:left;
+}
+.optic{
+  background:#006E51;
+  opacity: .7;
+  width:50%;
+  float:right;
+}
+.tsm{
+  background:#AF9483;
+  opacity: .7;
+  width:50%;
+  float:left;
+}
+.liquid{
+  background:#898E8C;
+  opacity: .7;
+  width:50%;
+}
+.team-box{
+  height:400px;
+  width:50%;
+}
+body {
+  font-size: 26px;
+  font-family: 'EB Garamond', serif;
+  font-weight: 800;
+  color:#FFF0F5;
+  background:#e7e7e7;
+  background-image: url(../images/nalcs.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  background-position: center;
+  height:100%;
+  text-align:center; 
+
+
+}
+.empty{
+  background-color:transparent;
+}
+.team-box p.hidden{
+  visibility:hidden;
+}
+.single-box p.hidden{
+  visibility: hidden;
+}
+img .logo{
+  height:200px;
+}
+img.icon {
+  height:100px;
+ 
+}
+header{
+	font-size:30px;
+	font-weight: 600;
+  text-align: center;
+  
+}
+
+div .single-box {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div .row  {
+   height: 400px;
+    width: 100%;
+   text-align: center;
+   margin: 20px 20px;
+   padding: 50px 50px;
+}
+div .single{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    margin: 20px 20px;
+    padding:50px 50px;
+
+}
+ul {
+    list-style-type: none;
+}
+
+div h1{
+  text-align: center;
+  float :right;
+}
+ button{
+    background-color:#555555;  Green 
+    border: 1px solid black;
+    border-radius:50px;
+    color: #9932CC;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:20px 20px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-style:400;
+}
+footer{
+  padding:50px 50px;
+}
+
+/*media changes/*/
+
+@media only screen and (max-width:1200px){
+
+}

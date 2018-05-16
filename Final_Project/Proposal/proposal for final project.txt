@@ -1,0 +1,5 @@
+For my final project I want to create a basic esports webpage 
+for the current league of legends including the teams
+their logos with links to their stores, website, and primary
+social media, with a third page being a resume for me linking to the esports
+pages I mention earlier.
